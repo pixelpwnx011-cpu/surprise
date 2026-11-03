@@ -10,13 +10,17 @@ export const birthdayConfig = {
   headingAfter: 'HAPPY BIRTHDAY, {name}! 🎉',
   subtitle: 'A little countdown for a very big celebration.',
   intro: 'The confetti is ready, the surprises are waiting, and your day is almost here.',
-  birthdayNote: `Dear {nickname},
+  birthdayNote: `Dear Manku ❤️,
 
-Happy birthday, you absolute legend! 🥳
+Happiest Birthday, Monkey! 🥳
 
-I hope this year brings you ridiculous amounts of happiness, unforgettable memories, and plenty of reasons to laugh. Thanks for being you.
+Another year older, but unfortunately
+still the same pagal insaan.
 
-Now go enjoy your surprise. You deserve it!
+Stay happy, keep smiling and never
+change (thoda sa sudhar jaana bas).
+
+Enjoy your day Vroo! ❤️
 
 — Your best friendo`,
   footerText: 'Made with a little extra love, just for you.',
