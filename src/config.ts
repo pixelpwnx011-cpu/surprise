@@ -22,7 +22,7 @@ Now go enjoy your surprise. You deserve it!
   footerText: 'Made with a little extra love, just for you.',
   decorativeText: 'good things take time',
   // This must be your deployed Cloudflare Worker URL. Do not put the Drive URL here.
-  redirectEndpoint: 'https://YOUR-WORKER.YOUR-SUBDOMAIN.workers.dev/open',
+  redirectEndpoint: 'https://birthday-surprise-redirect.abhayanand061.workers.dev/open',
   // Actual instant: 4 Nov 2026, 00:00:00 India Standard Time.
   unlockAt: '2026-11-03T18:30:00.000Z',
   theme: {
