@@ -1,0 +1,7 @@
+name = "birthday-surprise-redirect"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+# Exact birthday instant: 2026-11-03 18:30:00 UTC = Nov 4, 00:00 IST.
+UNLOCK_AT = "2026-11-03T18:30:00.000Z"
