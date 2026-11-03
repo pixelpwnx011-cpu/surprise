@@ -18,7 +18,7 @@ I hope this year brings you ridiculous amounts of happiness, unforgettable memor
 
 Now go enjoy your surprise. You deserve it!
 
-— Your favourite human`,
+— Your best friendo`,
   footerText: 'Made with a little extra love, just for you.',
   decorativeText: 'good things take time',
   // This must be your deployed Cloudflare Worker URL. Do not put the Drive URL here.
